@@ -8,7 +8,7 @@ class App extends Component {
 	    super(props);
 
 	    this.state = {
-	      counters: 2
+	      counters: 0
 	    };
 	  }
   increaseCounter = () =>{
